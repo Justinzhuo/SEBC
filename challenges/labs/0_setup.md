@@ -108,3 +108,6 @@
 * zhou:x:2900:
 * chen:x:2300:
 
+## 6 Cloudera Manager on the second node listed 
+*  ip-172-31-34-224  ec2-52-88-193-138.us-west-2.compute.amazonaws.com  52.88.193.138  172.31.34.224
+* ps Mysql is * ip-172-31-36-110 ec2-52-24-158-58.us-west-2.compute.amazonaws.com   52.24.158.58   172.31.36.110
