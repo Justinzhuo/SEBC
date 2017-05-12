@@ -1,41 +1,10 @@
-Please use spaces below to answer the following questions:
 
+##  cloudera-manager.repo1
+* [root@ip-172-31-34-224 yum.repos.d]# cat cloudera-manager.repo
+* [cloudera-manager]
+* name = Cloudera Manager, Version 5.11.0
+* baseurl = https://archive.cloudera.com/cm5/redhat/6/x86_64/cm/5.11.0/
+* gpgkey = https://archive.cloudera.com/redhat/cdh/RPM-GPG-KEY-cloudera
+* gpgcheck = 1
 
-How many times have you installed a Hadoop cluster (any kind) before this week?
-```
-
-```
-
-What was the most familiar technical subject for you this week?
-```
-
-```
-
-What was the most difficult technical subject for you this week?
-```
-
-```
-
-Which subject that we covered did you learn the most from?
-```
-
-```
-
-Which subject was least useful to you?
-```
-
-```
-
-If you could add one subject to the class, what would it be?
-```
-
-```
-
-How much time do you think you will need to be able to install a cluster by yourself (no help, no mentoring)?
-```
-
-```
-
-Thank you and safe travels.
-
-Michael (mfe@cloudera.com) & Carlo (cpiva@cloudera.com)
+* [root@ip-172-31-34-224 yum.repos.d]# 
