@@ -15,7 +15,7 @@
 * /dev/xvde        30G  680M   28G   3% /
 * tmpfs           7.4G     0  7.4G   0% /dev/shm
 * [root@ip-172-31-36-110 ~]# 
-* ## 4 yum repolist enabled
+## 4 yum repolist enabled
 * 
 * [root@ip-172-31-36-110 ~]# yum repolist enabled 
 * Loaded plugins: fastestmirror, presto
@@ -31,7 +31,7 @@
 * updates                        CentOS-6 - Updates                           270
 * repolist: 7,040
 * [root@ip-172-31-36-110 ~]# 
-* 
+*
 * [root@ip-172-31-34-224 ~]# yum repolist enabled
 * Loaded plugins: fastestmirror, presto
 * base                                                                                        | 3.7 kB     00:00     
@@ -101,6 +101,7 @@
 * cat /etc/passwd
 * zhou:x:2900:2900::/home/zhou:/bin/bash
 * chen:x:2300:2300::/home/chen:/bin/bash
+* 
 * cat /etc/group
 * shanghai:x:500:chen
 * beijing:x:501:zhou
